@@ -3,7 +3,7 @@ package org.firstinspires.ftc.teamcode;
 /**
  * This class manages a basic Tele-Op that drives the robot using a controller.
  *
- * @author Ben Gerrard & Owen Sorber
+ * @author Owen Sorber
  * @date June 12th, 2018
  */
 
