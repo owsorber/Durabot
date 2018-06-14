@@ -3,7 +3,7 @@ package org.firstinspires.ftc.teamcode;
 /**
  * The Hardware class for the Durabot. Includes 2 drive motors and a gyro sensor.
  *
- * @author Ben Gerrard
+ * @author Owen Sorber
  * @date May 24th, 2018
  */
 
