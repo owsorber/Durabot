@@ -3,7 +3,7 @@ package org.firstinspires.ftc.teamcode;
 /**
  * This class manages a basic autonomous that can use the automatic methods from the Robot to make it perform a set of pre-programmed tasks.
  *
- * @author Ben Gerrard & Owen Sorber
+ * @author Owen Sorber
  * @date June 12th, 2018
  */
 
